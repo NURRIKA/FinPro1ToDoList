@@ -8,5 +8,6 @@ List -> tertera pada aplikasi setelah melakukan create to do list
 
 List Pembagian Tugas
 
-[Create, List, Delete -> Maria]
+[Create, List, Delete -> Maria Founteina Liwe]
 [Update, Repository Github -> Nurrika Riskya]
+Asye Datun Illahi
