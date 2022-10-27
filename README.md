@@ -8,5 +8,5 @@ List -> tertera pada aplikasi setelah melakukan create to do list
 
 List Pembagian Tugas
 
-Create, List, Delete -> Maria
-Update, Repository Github -> Nurrika Riskya
+[Create, List, Delete -> Maria]
+[Update, Repository Github -> Nurrika Riskya]
