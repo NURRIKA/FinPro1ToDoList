@@ -1,13 +1,13 @@
 # FinPro1ToDoList
 Deskrpsi Program
 
-Create -> untuk create tekan icon (+) di kanan atas
-Update -> dilakukan dengan cara klik salah satu task dan nanti akan muncul popup untuk mengedit task yang sudah ada sebelumnya
-Delete -> klik button Task Completed
-List -> tertera pada aplikasi setelah melakukan create to do list
+1.Create -> untuk create tekan icon (+) di kanan atas
+2.Update -> dilakukan dengan cara klik salah satu task dan nanti akan muncul popup untuk mengedit task yang sudah ada sebelumnya
+3.Delete -> klik button Task Completed
+4.List -> tertera pada aplikasi setelah melakukan create to do list
 
 List Pembagian Tugas
 
-[Create, List, Delete -> Maria Founteina Liwe]
-[Update, Repository Github -> Nurrika Riskya]
-Asye Datun Illahi
+1.[Create, List, Delete -> Maria Founteina Liwe]
+2.[Update, Repository Github -> Nurrika Riskya]
+3.Asye Datun Illahi
